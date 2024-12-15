@@ -1,5 +1,8 @@
 # BrickBreakerGame
-final_brick_breaker_game
+
+project title:
+
+BrickBreakerGame!. its a game about ball bouncing that easy to play.
 
 1.Project description:
 
